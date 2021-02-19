@@ -1,24 +1,5 @@
-# README
+# Conway's Game of Life
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+See game details on wiki: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ruby on Rails learning project
